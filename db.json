@@ -1,0 +1,11 @@
+{
+    "companies": [
+        { "id": "1", "name": "Apple" },
+        { "id": "2", "name": "Google" }
+    ],
+    "users": [
+        { "companyId": "1", "email": "test@test.com", "firstName": "Josh", "id": "1", "lastName": "Williams" },
+        { "companyId": "2", "email": "test2@test.com", "firstName": "Eric", "id": "2", "lastName": "James" },
+        { "companyId": "2", "email": "test3@test.com", "firstName": "John", "id": "3", "lastName": "Latency" }
+    ]
+}

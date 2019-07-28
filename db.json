@@ -1,11 +1,153 @@
 {
-    "companies": [
-        { "id": "1", "name": "Apple" },
-        { "id": "2", "name": "Google" }
-    ],
-    "users": [
-        { "companyId": "1", "email": "test@test.com", "firstName": "Josh", "id": "1", "lastName": "Williams" },
-        { "companyId": "2", "email": "test2@test.com", "firstName": "Eric", "id": "2", "lastName": "James" },
-        { "companyId": "2", "email": "test3@test.com", "firstName": "John", "id": "3", "lastName": "Latency" }
-    ]
+  "permissions": [
+    {
+      "id": "1",
+      "name": "Regular"
+    },
+    {
+      "id": "2",
+      "name": "Admin"
+    }
+  ],
+  "users": [
+    {
+      "email": "no@noo.com",
+      "firstName": "Josh",
+      "id": "1",
+      "lastName": "Williams",
+      "permissionId": "1"
+    },
+    {
+      "email": "test2@test.com",
+      "firstName": "Eric",
+      "id": "2",
+      "lastName": "James",
+      "permissionId": "1"
+    },
+    {
+      "email": "test3@test.com",
+      "firstName": "John",
+      "id": "3",
+      "lastName": "Latency",
+      "permissionId": "2"
+    },
+    {
+      "email": "don@don.com",
+      "id": "NcD-njk"
+    },
+    {
+      "email": "don@don.com",
+      "firstName": "Don",
+      "id": "LKmCZVC"
+    },
+    {
+      "email": "don@don.com",
+      "firstName": "Don",
+      "id": "-F-h49f"
+    },
+    {
+      "email": "don@don.com",
+      "firstName": "Don",
+      "id": "vIuQ7Rv"
+    },
+    {
+      "email": "don@don.com",
+      "firstName": "Don",
+      "id": "CMqA_vI"
+    },
+    {
+      "email": "don@don.com",
+      "firstName": "Don",
+      "id": "j_QwKgu"
+    },
+    {
+      "email": "don@don.com",
+      "firstName": "Don",
+      "id": "K4RgYcC"
+    },
+    {
+      "email": "don@don.com",
+      "firstName": "Don",
+      "id": "AxA-Vvs"
+    },
+    {
+      "email": "don@don.com",
+      "firstName": "Don",
+      "id": "PIZwPLi"
+    },
+    {
+      "email": "don@don.com",
+      "firstName": "Don",
+      "id": "b6L2VrP"
+    },
+    {
+      "email": "don@don.com",
+      "firstName": "Don",
+      "id": "kFldy7p"
+    },
+    {
+      "email": "don@don.com",
+      "firstName": "Don",
+      "id": "-IYhE_H"
+    },
+    {
+      "email": "don@don.com",
+      "firstName": "Don",
+      "id": "V0m14DF"
+    },
+    {
+      "email": "don@don.com",
+      "firstName": "Don",
+      "id": "axe9KKc"
+    },
+    {
+      "email": "don@don.com",
+      "firstName": "Don",
+      "id": "VSoeoE8"
+    },
+    {
+      "email": "don@don.com",
+      "firstName": "Don",
+      "id": "RGCFFE9"
+    },
+    {
+      "email": "don@don.com",
+      "firstName": "Don",
+      "id": "Wqnkm6u"
+    },
+    {
+      "email": "don@don.com",
+      "firstName": "Don",
+      "id": "84PNDgx"
+    },
+    {
+      "email": "don@don.com",
+      "firstName": "Don",
+      "permissionId": "1",
+      "id": "hcZgWFH"
+    },
+    {
+      "email": "don@don.com",
+      "firstName": "Don",
+      "permissionId": "1",
+      "id": "puDzquf"
+    },
+    {
+      "email": "don@don.com",
+      "firstName": "Don",
+      "permissionId": "1",
+      "id": "8tHmTTP"
+    },
+    {
+      "email": "don@don.com",
+      "firstName": "Don",
+      "permissionId": "1",
+      "id": "dh2GiYH"
+    },
+    {
+      "email": "don@don.com",
+      "firstName": "Don",
+      "id": "3L5w-aa"
+    }
+  ]
 }

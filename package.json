@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/donthedeveloper/react-graphql-template#readme",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "chalk": "^2.4.2",
     "express": "^4.17.1",
     "express-graphql": "^0.8.0",
